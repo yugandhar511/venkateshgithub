@@ -12,7 +12,7 @@ public class DemoRunner implements ApplicationRunner {
 		System.out.println("cinema super hit");
 		System.out.println("hi from team lead!");
 		System.out.println("bye from team lead");
-		
+		System.out.println("hi");
 		
 	}
 
